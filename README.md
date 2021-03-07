@@ -1,4 +1,11 @@
-# UrBlogApp
+# UrBlog
+
+## About UrBlog
+UrBlog is a website where tech enthusiasts can publish, and read articles. This project was build using Angular framework and firebase as a back-end.
+
+## Credits
+- [Safwan Saigh](https://github.com/SafwanSa)🃏.
+- [Fozan Alkhalawi](https://github.com/FozanKh).
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.6.
 
